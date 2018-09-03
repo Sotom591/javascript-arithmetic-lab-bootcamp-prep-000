@@ -48,13 +48,6 @@ function makeInt(n)
 console.log(makeInt(0*2328));
 console.log(makeInt('sldkjflksjf',10));
  
-function assumeBaseTen()
-{
-  return (0*2328);
-function nan()
-{
-  return parseInt ('sldkjflksjf', 10);
-}
 
 
 function preserveDecimal(n)
