@@ -64,4 +64,7 @@ function preserveDecimal(n)
 {
  return parseFloat ('2.222');
 }
-preserveDecimal ('sldkjflksjf', 10);
+function preserveDecimall(n) 
+{
+  parseInt ('sldkjflksjf', 10);
+}
