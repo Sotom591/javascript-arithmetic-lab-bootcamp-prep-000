@@ -63,7 +63,5 @@ function nan()
 function preserveDecimal(n)
 {
  return parseFloat ('2.222');
- 
-}{
-function isNan()
 }
+preserveDecimal ('sldkjflksjf', 10);
