@@ -59,9 +59,11 @@ function nan()
 }
 
 
-
 function preserveDecimal(n)
 {
- parseFloat ('2.222');
+   parseFloat ('2.222');
+}
+function preserveDecimal(n)
+{
  return parseFloat ('sldkjflksjf');
 }
