@@ -61,6 +61,7 @@ function nan()
 
 function preserveDecimal(n)
 {
-  return parseFloat ('2.222');
+  return parseFloat(n);
 }
+console.log(preserveDecimal('2.222'));
 console.log(preserveDecimal('sldkjflksjf'));
