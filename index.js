@@ -38,15 +38,6 @@ function dec(a)
 
 
 
-var n
-n = Math.floor(Math.random() * 1000)
-function assumeBaseTen()
-{
-  return (0*2328);
-function nan()
-{
-  return parseInt ('sldkjflksjf', 10);
-}
 
 
 function makeInt(n)
