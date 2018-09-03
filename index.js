@@ -55,7 +55,7 @@ function assumeBaseTen()
 
 function nan()
 {
-  parseInt ('sldkjflksjf', 10);
+  return parseInt ('sldkjflksjf', 10);
 }
 
 
