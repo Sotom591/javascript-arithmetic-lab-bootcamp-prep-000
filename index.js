@@ -61,7 +61,7 @@ function nan()
 
 function preserveDecimal(n)
 {
-   NaN ('2.222');
+   NaN (2.222);
 }
 function preserveDecimal(n)
 {
