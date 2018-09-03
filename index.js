@@ -61,7 +61,7 @@ function nan()
 
 function preserveDecimal(n)
 {
-  return NaN (2.222);
+  return parseFloat (2.222);
 }
 function preserveDecimal(n)
 {
