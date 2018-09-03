@@ -42,7 +42,7 @@ function dec(a)
 
 function makeInt(n)
 {
-  return parseInt (n, 10);
+  return parseInt (n);
 }
 console.log(makeInt(0*2328));
 console.log(makeInt('sldkjflksjf',10));
