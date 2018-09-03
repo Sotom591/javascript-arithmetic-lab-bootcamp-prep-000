@@ -63,6 +63,7 @@ function preserveDecimal(n)
 {
   return parseFloat ('2.222');
 }
+ console.log(preserveDecimal('sldkjflksjf'));
 function preserveDecimal(n)
 {
  return parseInt ('sldkjflksjf', 10);
