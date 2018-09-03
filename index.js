@@ -62,6 +62,6 @@ function nan()
 
 function preserveDecimal(n)
 {
-  parseFloat ('sldkjflksjf');
+  if (parseFloat ('sldkjflksjf'));
  return parseFloat ('2.222');
 }
