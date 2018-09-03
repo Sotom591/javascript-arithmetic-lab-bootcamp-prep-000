@@ -45,12 +45,7 @@ function makeInt(n)
 {
   return parseInt (n, 10);
 }
-
-function assumeBaseTen()
-{
-  return (0*2328);
-
-}
+console.log(makeInt(0*2328));
 
 
 function nan()
